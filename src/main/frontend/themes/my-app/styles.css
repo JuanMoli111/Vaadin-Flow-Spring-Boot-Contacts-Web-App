@@ -1,0 +1,14 @@
+/* Cuando el view-port es muy angosto, esconde el toolbar y la contact grid*/
+
+@media all and (max-width: 950px){
+    .list-view.editing .toolbar,
+    .list-view.editing .contact-grid {
+        display: none;
+    }
+}
+
+
+a[highlight] {
+    font-weight: bold;
+    text-decoration: underline;
+}
