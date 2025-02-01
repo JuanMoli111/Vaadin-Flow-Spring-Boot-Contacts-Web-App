@@ -6,9 +6,9 @@ import java.util.Random;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import com.example.application.data.Company;
-import com.example.application.data.Contact;
-import com.example.application.data.Status;
+import com.example.application.data.entity.Company;
+import com.example.application.data.entity.Contact;
+import com.example.application.data.entity.Status;
 import com.example.application.repository.CompanyRepository;
 import com.example.application.repository.ContactRepository;
 import com.example.application.repository.StatusRepository;

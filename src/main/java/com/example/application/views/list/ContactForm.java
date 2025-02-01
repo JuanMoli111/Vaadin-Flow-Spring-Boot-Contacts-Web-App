@@ -2,9 +2,9 @@ package com.example.application.views.list;
 
 import java.util.List;
 
-import com.example.application.data.Company;
-import com.example.application.data.Contact;
-import com.example.application.data.Status;
+import com.example.application.data.entity.Company;
+import com.example.application.data.entity.Contact;
+import com.example.application.data.entity.Status;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.ComponentEvent;
 import com.vaadin.flow.component.ComponentEventListener;
